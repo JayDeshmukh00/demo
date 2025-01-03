@@ -1,3 +1,3 @@
 # demo
 first github repo
-web development enthusiast
+web development enthusiast.
